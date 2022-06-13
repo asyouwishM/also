@@ -4,3 +4,6 @@
 [submodule "lib/nbulsi-mockturtle"]
 	path = lib/nbulsi-mockturtle
 	url = https://gitee.com/zfchu/nbulsi-mockturtle
+[submodule "lib/eigen"]
+	path = lib/eigen
+	url = https://gitee.com/zfchu/eigen
