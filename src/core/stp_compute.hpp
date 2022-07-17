@@ -16,7 +16,7 @@
 namespace also
 {
 
-  void stp_demo();
+void stp_demo();
 
 }
 
